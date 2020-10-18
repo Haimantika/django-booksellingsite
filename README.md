@@ -5,7 +5,7 @@ This is a book selling site, where you can get new as well as old books at an af
 # Working:
 Order a book, and get a speedy delivery, you can also track your order. Have great books and don't need them anymore? We have potential buyers for you. We have every genre, buy/sell according to your need. Perks? You don't need to worry about your security. Your privacy is important to us. 
 # Technology Stack:
-- Django :snake:
+- Django 🐍
 - Heroku
 # Find us here: [SellBookOnline](https://benefique-fromage-75205.herokuapp.com/)
 # Demo:
