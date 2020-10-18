@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Haimantika/django-booksellingsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Haimantika/django-booksellingsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Booksellingsite 📚
+Want to purchase books at a lower price? Want to re-sell your old books? This is the site for all your concerns.
+# What is it?
+This is a book selling site, where you can get new as well as old books at an affordable price.
+# Working:
+Order a book, and get a speedy delivery, you can also track your order. Have great books and don't need them anymore? We have potential buyers for you. We have every genre, buy/sell according to your need. Perks? You don't need to worry about your security. Your privacy is important to us. 
+# Technology Stack:
+- Django :snake:
+- Heroku
+# Find us here: [SellBookOnline](https://benefique-fromage-75205.herokuapp.com/)
+# Demo:
+![WhatsApp Image 2020-07-15 at 9 39 45 PM (1)](https://user-images.githubusercontent.com/32809211/87638325-31d4b480-c761-11ea-8d40-fbf50679f57e.jpeg)
+![WhatsApp Image 2020-07-15 at 9 27 23 PM](https://user-images.githubusercontent.com/32809211/87638348-3dc07680-c761-11ea-8d3b-f8828b5eb7e2.jpeg)
+![WhatsApp Image 2020-07-15 at 9 27 21 PM](https://user-images.githubusercontent.com/32809211/87638354-4153fd80-c761-11ea-88de-c90d0d8f725b.jpeg)
+![WhatsApp Image 2020-07-15 at 9 39 45 PM](https://user-images.githubusercontent.com/32809211/87638361-44e78480-c761-11ea-8c55-5bb92611f9eb.jpeg)
